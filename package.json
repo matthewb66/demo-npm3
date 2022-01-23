@@ -1,7 +1,7 @@
 {
   "name": "nodejs-demoapp",
   "version": "1.0.0",
-  "description": "nodejs demo app",
+  "description": "nodejs demo app2",
   "main": "server.js",
   "scripts": {
     "test": "jasmine-node spec",
